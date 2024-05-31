@@ -15,4 +15,4 @@ To run this project first install two libraries 1) Tkinter 2) docxtpl
 2) To install docxtpl libraries run the below code in command promt
    pip install docxtpl
 
-After installing simply open main.py file and run the program give proper value to each field and press the button "Generate new invoice" and the generated new invoice will be saved in the same file
+After installing simply open the whole folder in VS Code [File --> Open Folder --> Select the folder that contains those two files]. Then open "main.py" file through VS Code and run the program give proper value to each field and press the button "Generate new invoice" and the generated new invoice will be saved in the same file
